@@ -11,7 +11,7 @@
         <li>SQL</li>
         <li> A/B тесты</li>
         <li>Tableau</li>
-  
+        <li>Excel</li>
 </ul>    
 
 <!--
